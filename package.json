@@ -4,7 +4,8 @@
   "description": "an api for a social network",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
