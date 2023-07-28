@@ -1,5 +1,8 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const User = require('./models/user');
+const Thought = require('./models/thought');
+const Reaction = require('./models/reaction');
 
 const app = express();
 
